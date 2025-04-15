@@ -1,10 +1,15 @@
 # 🧩 Phase 1: Planning & Direction – Professional Cheat Sheet
 
-🔄 Where it Fits in the Intelligence Cycle
-📌 Planning & Direction — YOU ARE HERE — Define IRs and prioritize.
-📥 Collection — Gather data based on IRs.
-🧠 Processing & Analysis — Make sense of the raw input.
-📤 Dissemination — Deliver intelligence to stakeholders.
+---
+
+## 🔄 Where it Fits in the Intelligence Cycle
+
+1. 📌 **Planning & Direction** — Define IRs and prioritize.
+2. 📥 **Collection** — *YOU ARE HERE* — Gather data based on IRs.
+3. 🧠 **Processing & Analysis** — Make sense of the raw input.
+4. 📤 **Dissemination** — Deliver intelligence to stakeholders.
+
+---
 
 ## 🎯 Objective
 Establish clear, prioritized intelligence requirements aligned with organizational goals to guide efficient and effective intelligence operation.
