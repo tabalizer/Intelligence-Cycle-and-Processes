@@ -28,14 +28,14 @@ Transform raw data into **actionable insights** by using structured thinking and
 ---
 
 ## 🧰 Key Tools & Techniques
-### ✅ Structured Analytic Techniques (SAT)
+### ✅ Structured Analytic Techniques (SAT) 
 - ⚖️ **ACH (Analysis of Competing Hypotheses)** – Minimize confirmation bias
 - 🔍 **Key Assumptions Check (KAC)** – Identify & test hidden beliefs
 - 🌀 **Cone of Plausibility** – Explore possible futures
 - 🕸️ **Network Analysis** – Map relationships
 - 🧠 **Mind Mapping** – Organize thoughts visually
 - 🔮 **Scenario Planning** – Prepare for uncertain developments
-
+- 🛠 **SATs ** Read more about Structured Analytic Techniques (SAT) here: https://github.com/tabalizer/Structured-Analysis-Techniques-Cheat-Sheet
 ---
 
 ## 🧠 ACH Mini-Workflow
