@@ -6,6 +6,15 @@ To ensure that **intelligence products reach the right people, in the right form
 
 ---
 
+## 🔄 Where it Fits in the Intelligence Cycle
+
+1. 📌 **Planning & Direction** — Define IRs and prioritize.
+2. 📥 **Collection** —  Gather data based on IRs.
+3. 🧠 **Processing & Analysis** — Make sense of the raw input.
+4. 📤 **Dissemination** — *YOU ARE HERE* — Deliver intelligence to stakeholders.
+
+---
+
 ## 🔁 Connecting Back to Planning & Direction
 > Every dissemination creates **feedback** that drives **new planning**. This is not the end—it's the reboot.
 
