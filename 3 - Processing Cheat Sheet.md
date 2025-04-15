@@ -9,6 +9,15 @@ Processing useing the **BCRAAP** is a structured approach to evaluating informat
 
 ---
 
+## 🔄 Where it Fits in the Intelligence Cycle
+
+1. 📌 **Planning & Direction** — Define IRs and prioritize.
+2. 📥 **Collection** — Gather data based on IRs.
+3. 🧠 **Processing & Analysis** — *YOU ARE HERE* — Make sense of the raw input.
+4. 📤 **Dissemination** — Deliver intelligence to stakeholders.
+
+---
+
 ## 1️⃣ 🎭 Bias – Identifying Personal, AI & Content Bias
 
 🔹 **AI-Generated Content Awareness.** AI models may reflect biases in their training data.  
