@@ -6,6 +6,15 @@ Transform raw data into **actionable insights** by using structured thinking and
 
 ---
 
+## 🔄 Where it Fits in the Intelligence Cycle
+
+1. 📌 **Planning & Direction** — Define IRs and prioritize.
+2. 📥 **Collection** — Gather data based on IRs.
+3. 🧠 **Processing & Analysis** — *YOU ARE HERE* — Make sense of the raw input.
+4. 📤 **Dissemination** — Deliver intelligence to stakeholders.
+
+---
+
 ## 📌 Core Functions of Analysis
 | Function | Description | Emoji |
 |---------|-------------|-------|
