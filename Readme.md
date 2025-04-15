@@ -85,8 +85,8 @@ The goal with Intelligence is to make the uncertain a bit less uncertain when it
 |------------------|----------------------------|------------|
 | 🔴 Highly likely | Strong basis               | >90%       |
 | 🟠 Likely        | Reason to expect           | 60–90%     |
-| 🟡 Even chance   | Just as likely as unlikely | 40–59%     |
-| 🔵 Unlikely      | Low expectation            | 10–39%     |
+| 🟡 Even chance   | Just as likely as unlikely | 40–60%     |
+| 🔵 Unlikely      | Low expectation            | 10–40%     |
 | ⚪ Highly unlikely | Very small reason         | <10%       |
 
 ### 📄 4.4.7 Product Essentials
