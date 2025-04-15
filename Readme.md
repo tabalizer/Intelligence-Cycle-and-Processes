@@ -1,7 +1,8 @@
 
-# 🧠 Risk Intelligence Framework Cheat Sheet
+# 🧠 Readme - Intellingence - WHY & HOW
 
 ## 🎯 1. Goals & Principles
+The goal with Intelligence is to make the uncertain a bit less uncertain when it comes to identify, detect and predict threats agains your organizations assets, resources and capabilties. Intelligence is key to understand situational awareness, threats and what may happen to morrow!
 
 ### ✅ Goals
 - 🎯 **Support Decisions** – Clear, traceable intelligence for all levels.
@@ -71,13 +72,14 @@
 - **OSINT, FININT, GEOINT, SIGINT**
 - ✅ Legal & ethical always
 
-### 🧰 4.4 Analysis Techniques
+### 🧰 4.4 Analysis Techniques (also take a look at https://github.com/tabalizer/Structured-Analysis-Techniques-Cheat-Sheet)
 - 🔗 **Link Analysis**
 - ❓ **5W1H + SoWhat**
 - 🗺️ **Geospatial**
 - 📅 **Timeline**
 - ⚖️ **ACH**: Competing Hypotheses
 - 📊 **Probability Matrix**
+- ✅ ** Structured Analysis Techniques ** Ref: https://github.com/tabalizer/Structured-Analysis-Techniques-Cheat-Sheet
 
 | Probability      | Description               | Chance     |
 |------------------|----------------------------|------------|
@@ -108,6 +110,14 @@
 
 ## 🧪 Real-World Scenarios & Use Cases
 
+### 🏥 0. Safety, Security & Human Risk
+| Use Case | Scenario |
+|----------|----------|
+| 🚨 Threats to Staff or Operations | Individuals with known criminal history or grievances pose a physical or digital threat to people or systems. |
+| 🛡️ Workplace Vulnerabilities | Gaps in access control, surveillance, or safety protocols increase exposure to internal or external incidents. |
+| 🌍 Environmental & Geopolitical Risks | Local or global instability affects operations, logistics, or insured assets. |
+| 🦠 Health Intelligence | Health trends or external outbreaks impact business continuity, workforce availability, or travel safety. |
+
 ### 💸 1. Financial & Economic Crime
 | Use Case | Scenario |
 |----------|----------|
@@ -132,18 +142,10 @@
 | 📧 Social Engineering / CEO Fraud | Fake communications impersonate executives or partners to authorize illegitimate actions like payments or data access. |
 | 📉 Policy Violations | Breaches of code of conduct, ethics guidelines, or compliance protocols leading to legal or operational consequences. |
 
-### 🌐 4. Cyber & Digital Threats
+### 🌐 4. Threats in the Cyber domain
 | Use Case | Scenario |
 |----------|----------|
 | 🖥️ Unauthorized Access | External or internal actors gain access to sensitive systems using phishing, malware, or credential theft. |
 | 🌍 Hybrid Threats / Influence Ops | Disinformation, bot activity, or cyber harassment targeting decision-makers or destabilizing business operations. |
 | 📡 Surveillance & Data Harvesting | Data collected from public or private sources is used for profiling, extortion, or manipulation. |
 | 🧬 AI/Deepfake Exploits | Synthetic media used to deceive systems or individuals during negotiations, verifications, or incident response. |
-
-### 🏥 5. Safety, Security & Human Risk
-| Use Case | Scenario |
-|----------|----------|
-| 🚨 Threats to Staff or Operations | Individuals with known criminal history or grievances pose a physical or digital threat to people or systems. |
-| 🛡️ Workplace Vulnerabilities | Gaps in access control, surveillance, or safety protocols increase exposure to internal or external incidents. |
-| 🌍 Environmental & Geopolitical Risks | Local or global instability affects operations, logistics, or insured assets. |
-| 🦠 Health Intelligence | Health trends or external outbreaks impact business continuity, workforce availability, or travel safety. |
