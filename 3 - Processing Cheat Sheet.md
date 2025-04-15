@@ -1,11 +1,11 @@
-# 🧐 BCRAAP Source & Information Evaluation Cheat Sheet
+# 🧐 Processing Data/Information utilizing the BCRAAP framework
 
 📌 **Version:** BCRAAP v.1  
 ✍️ **Author:** [@tabalizer](https://www.linkedin.com/in/tabalizer/)  
 📅 **Date:** February 2025  
 
 ## 🔍 Overview
-BCRAAP is a structured approach to evaluating information credibility and reliability. The framework consists of **Bias, Currency, Relevance, Authority, Accuracy, and Purpose** to help users critically assess sources.
+Processing useing the **BCRAAP** is a structured approach to evaluating information credibility and reliability. The framework consists of **Bias, Currency, Relevance, Authority, Accuracy, and Purpose** to help users critically assess sources.
 
 ---
 
