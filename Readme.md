@@ -55,13 +55,16 @@ The goal with Intelligence is to make the uncertain a bit less uncertain when it
 
 ---
 
-## 🔄 4. Intelligence Process
+## 🔄 4. Intelligence Process (Classic Intellingence Cycle)
+
+![image](https://github.com/user-attachments/assets/c8d5558e-ae96-420b-ba11-e781e1246649)
 
 ### 🧩 4.1 The Cycle
 1. 📌 Planning
 2. 📥 Collection
-3. 🧠 Analysis
-4. 📤 Dissemination
+   2.1 🧩 Processing and Exploitation
+4. 🧠 Analysis
+5. 📤 Dissemination
 
 ### 📌 4.2 Planning
 - Define Intelligence Requirements (IRs)
