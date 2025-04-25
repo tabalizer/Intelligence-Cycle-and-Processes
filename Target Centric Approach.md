@@ -86,7 +86,8 @@
 - **Exploit** 📂 – Extract actionable intel
 - **Analyze** 🧠 – Feed results back into the model
 
-
+![image](https://github.com/user-attachments/assets/3667ef21-0b5f-4f66-9d14-d2b93a5466de)
+By Random Acts of Language - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=18142839
 
 ---
 
