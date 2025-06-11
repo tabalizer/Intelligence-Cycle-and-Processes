@@ -4,8 +4,8 @@
 
 ## 🔄 Where it Fits in the Intelligence Cycle
 
-1. 📌 **Planning & Direction** — Define IRs and prioritize.
-2. 📥 **Collection** — *YOU ARE HERE* — Gather data based on IRs.
+1. 📌 **Planning & Direction** — *YOU ARE HERE* — Define IRs and prioritize.
+2. 📥 **Collection** — Gather data based on IRs.
 3. 🧠 **Processing & Analysis** — Make sense of the raw input.
 4. 📤 **Dissemination** — Deliver intelligence to stakeholders.
 
